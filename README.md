@@ -11,8 +11,6 @@ This is a simple quiz application built using HTML, CSS, and JavaScript. The qui
 - [Usage](#usage)
 - [Code Structure](#code-structure)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
