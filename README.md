@@ -1,13 +1,13 @@
 # Simple Quiz App
 
 This is a simple quiz application built using HTML, CSS, and JavaScript. The quiz allows users to answer multiple-choice questions and see their score at the end.
+
 [TRY IT NOW 😊](https://vivek4nag.github.io/Quiz-App/)
 
 ## Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
 - [Customization](#customization)
@@ -27,29 +27,6 @@ This is a simple quiz application built using HTML, CSS, and JavaScript. The qui
 - **CSS**: Styling the quiz application
 - **JavaScript**: Logic for quiz functionality
 
-## Setup
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository** or **download** the source code files.
-
-    ```bash
-    git clone https://github.com/yourusername/quiz-app.git
-    ```
-
-2. Navigate to the project directory.
-
-    ```bash
-    cd quiz-app
-    ```
-
-3. Open the `index.html` file in your browser.
-
-    ```bash
-    open index.html
-    ```
-
-Alternatively, you can open the project in any code editor (like VSCode) and use the "Live Server" extension to run the application.
 
 ## Usage
 
