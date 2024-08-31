@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "which is the largrst animal in the world?",
+        question: "which is the largest animal in the world?",
         answers: [
             {text: "Shark", correct: false},
             {text: "Blue Whale", correct: true},
